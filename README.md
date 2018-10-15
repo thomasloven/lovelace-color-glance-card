@@ -1,3 +1,13 @@
+# DEPRECATED
+
+As of vesion 0.80, this is a built-in feature of home-assistant
+
+See: [Glance card documentation](https://www.home-assistant.io/lovelace/glance/#theming)
+
+No support will be given for this card.
+
+---
+
 # color-glance-card
 
 A glance card with colored background
